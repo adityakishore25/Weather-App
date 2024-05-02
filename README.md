@@ -4,4 +4,4 @@
 
 
 # How to use it?
-## Enter any city name, and click on the search button, weather of that city will be diplayed
+## Enter any city name, and click on the search button, weather of that city will be displayed.
